@@ -19,7 +19,7 @@ window.onscroll = () =>{
 
 }
 
-let countDate = new Date('oct 1, 2021 00:00:00').getTime();
+let countDate = new Date('sept 7, 2022 00:00:00').getTime();
 
 function CountDown(){
 
